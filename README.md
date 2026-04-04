@@ -15,20 +15,21 @@ This is my personal space where I’ll be uploading projects, experiments, and t
 Tools & Tech
 
 ### 🛠 Technologies & Tools
+### 🛠 Technologies & Tools
+
 **Languages**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frameworks**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Web Development & Frameworks**
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+**Computer Science Fundamentals**
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-Basics-blue?style=for-the-badge&logo=gitbook&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asiya-Heisenbug&show_icons=true&theme=tokyonight&count_private=true" alt="Asiya's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asiya-Heisenbug&layout=compact&theme=tokyonight" alt="Asiya's Top Languages" />
-</p>
 
 A Bit About Me-
 
