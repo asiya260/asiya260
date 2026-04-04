@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-
-<p align="center">
-  <img src="![e2065c7ab88cd3119ad243d4c518d095](https://github.com/user-attachments/assets/20034066-0537-4f51-bd7f-fd6067f6e6bd)" width="200">
-</p>
-
+![e2065c7ab88cd3119ad243d4c518d095](https://github.com/user-attachments/assets/20034066-0537-4f51-bd7f-fd6067f6e6bd)
 I'm Asiya, a BSc
  Computer Science student specializing in AI, based in India.
 
