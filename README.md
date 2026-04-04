@@ -2,9 +2,8 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJyeXJyeXJ5eXJ5eXJ5eXJ5eXJ5eXJ5eXJ5JnB0PW0mY3Q9Zw/3o7TKMGpxr9L898X7y/giphy.gif" width="200">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJyeXJyeXJ5eXJ5eXJ5eXJ5eXJ5eXJ5eXJ5JnB0PW0mY3Q9Zw/3o7TKMGpxr9L898X7y/giphy.gif](https://i.pinimg.com/originals/74/63/d7/7463d78d184c43bb878ee9b63d5e8652.gif)" width="300" />
 </p>
-
 
 I'm Asiya, a BSc Computer Science student specializing in AI, based in India.
 
