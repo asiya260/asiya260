@@ -24,9 +24,12 @@ Tools & Tech
 ![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-![Asiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asiya-Heisenbug&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asiya-Heisenbug&show_icons=true&theme=tokyonight&count_private=true" alt="Asiya's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asiya-Heisenbug&layout=compact&theme=tokyonight" alt="Asiya's Top Languages" />
+</p>
 
-![Asiya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiya-Heisenbug&layout=compact&theme=tokyonight)
 A Bit About Me-
 
 * 🐱 **Cat lover** — I have Missy and her kittens at home
