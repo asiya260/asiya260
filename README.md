@@ -11,7 +11,7 @@ This is my personal space where I’ll be uploading projects, experiments, and t
 
 Tools & Tech
 
-### 🛠 Technologies & Tools
+### 🛠 Technologies & Tools :
 
 | Category | Tools & Languages |
 | :--- | :--- |
